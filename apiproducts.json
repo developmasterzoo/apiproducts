@@ -816,17 +816,6 @@
   },
   {
     "city": "Харків",
-    "cod":"4576",
-    "zoomCity": 10,
-    "cityCoordinates": [50.00809405621779, 36.32990630503759],
-    "name": "Центральний ринок, вул. Різдвяна, 33",
-    "tel": "095-406-93-57",
-    "time": "9:00-17:00",
-    "coordinates": [49.99388769654178, 36.22415930000205],
-    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.9937532,36.2241593,17z/data=!3m1!4b1!4m6!3m5!1s0x4127a0fb75278607:0x57547239a4acf5ed!8m2!3d49.9937532!4d36.2241593!16s%2Fg%2F11cm3xsld4?hl=ru&entry=ttu"
-  },
-  {
-    "city": "Харків",
     "cod":"3032",
     "zoomCity": 10,
     "cityCoordinates": [50.00809405621779, 36.32990630503759],
