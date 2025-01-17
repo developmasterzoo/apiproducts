@@ -891,17 +891,7 @@
     "coordinates": [50.011874425038435, 36.2387462422537],
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.0117124,36.2387677,17z/data=!3m1!4b1!4m6!3m5!1s0x4127a0d8f2cfa907:0x889f7b14485961fd!8m2!3d50.0117124!4d36.2387677!16s%2Fg%2F11cm3xtc_6?hl=ru&entry=ttu"
   },
-  {
-    "city": "Харків",
-    "cod":"7568",
-    "zoomCity": 10,
-    "cityCoordinates": [50.00809405621779, 36.32990630503759],
-    "name": "пр-т. Байрона 136/К",
-    "tel": "066-313-47-15",
-    "time": "9:00-20:00",
-    "coordinates": [49.943932540633654, 36.30369003093819],
-    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.943791,36.3036042,17z/data=!3m1!4b1!4m6!3m5!1s0x41270b77250b127b:0x4a448fdef0b482dc!8m2!3d49.943791!4d36.3036042!16s%2Fg%2F11vsnjstkw?entry=ttu"
-  },
+
   {
     "city": "Харків",
     "cod":"7575",
