@@ -1748,17 +1748,6 @@
     },
     {
         "city": "Миколаїв",
-        "cod":"5691",
-        "cityCoordinates": [46.975033, 31.994583],
-        "zoomCity": 12,
-        "name": "ТЦ «Таврія В» (вул. Лазурна, 17)",
-        "tel": "066-622-06-70",
-        "time": "10:00-19:00",
-        "coordinates": [46.94578671344907, 31.94160752932652],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@46.9456876,31.9416706,21z/data=!4m6!3m5!1s0x40c5ceb6306b01a3:0x13592feb3c99606b!8m2!3d46.9457771!4d31.9416082!16s%2Fg%2F11f15g0hgr?hl=ru&entry=ttu"
-    },
-    {
-        "city": "Миколаїв",
         "cod":"7591",
         "cityCoordinates": [46.975033, 31.994583],
         "zoomCity": 12,
