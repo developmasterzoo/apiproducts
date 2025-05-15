@@ -937,6 +937,17 @@
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.9601919,36.3231227,21z/data=!4m6!3m5!1s0x41270b6eab89a7c9:0xcf65eeb9698865d9!8m2!3d49.9601952!4d36.323075!16s%2Fg%2F11vwhprd03?entry=ttu"
   },
      {
+    "city": "Харків",
+    "cod":"2009",
+    "zoomCity": 10,
+    "cityCoordinates": [50.00809405621779, 36.32990630503759],
+    "name": "вул. Сумська, 108",
+    "tel": "057-715-69-37",
+    "time": "09:00-20:00",
+    "coordinates": [50.01035264701771, 36.241404193342504],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.0103457,36.241404,539m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4127a1d4d2834491:0xbced971e6517a71e!8m2!3d50.0103457!4d36.241404!16s%2Fg%2F11hsd3bls8?authuser=1&entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+     {
         "city": "Дніпро",
         "cod":"3001",
         "cityCoordinates": [48.46426000198422, 35.05253838396948],
