@@ -1201,6 +1201,18 @@
         "coordinates": [50.52087885801103, 30.244976504889543],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5203195,30.245234,15z/data=!4m6!3m5!1s0x472b33d295a3cd41:0xe32c889bf4d6ecf7!8m2!3d50.5203195!4d30.245234!16s%2Fg%2F11c5_6psxc?hl=uk&entry=ttu"
     },
+         {
+        "city": "Ірпінь",
+        "cod":"7611",
+        "addto" :"Київ",
+        "zoomCity": 14,
+        "cityCoordinates": [50.51943960843891, 30.23631016255645],
+        "name": "ЖК Центральний, 2, вул. Університетська, буд. 3/4",
+        "tel": "066-524-15-30",
+        "time": "10:00-21:00",
+        "coordinates": [50.50753604776805, 30.230893306958027],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5075281,30.2308955,17z/data=!3m1!4b1!4m6!3m5!1s0x472b338f0a239b49:0xfdb504a0d2cbb976!8m2!3d50.5075281!4d30.2308955!16s%2Fg%2F11xkx5_hyr?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
+    },
      {
         "city": "Буча",
         "cod":"7451",
