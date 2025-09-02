@@ -617,6 +617,17 @@
     },
          {
         "city": "Київ",
+        "cod":"7613",
+        "zoomCity": 10,
+        "cityCoordinates": [50.4504212701224, 30.523708236377523],
+        "name": "вул. Салютна, 2, корп. 7",
+        "tel": "066-725-45-17",
+        "time": "10:00-21:00",
+        "coordinates": [50.471500582359006, 30.403882946022936],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4715484,30.4026627,770m/data=!3m1!1e3!4m6!3m5!1s0x40d4cd3ef6e336d3:0x4999a2a8c3ee25d3!8m2!3d50.471453!4d30.4039048!16s%2Fg%2F11yjrv4yky?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+    },
+     {
+        "city": "Київ",
         "cod":"7605",
         "zoomCity": 10,
         "cityCoordinates": [50.4504212701224, 30.523708236377523],
