@@ -637,7 +637,17 @@
         "coordinates": [50.404627520605466, 30.629884881469863],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4045426,30.6285923,18z/data=!4m10!1m2!2m1!1z0LrQvdGP0LbQuNC5INC30LDRgtC-0L0g0JrQuNGX0LIg0LzQsNGB0YLQtdGA0LfQvtC-!3m6!1s0x40d4c5c4fe9ed3a3:0xea9a779fe760dfcf!8m2!3d50.4045803!4d30.6298691!15sCjPQutC90Y_QttC40Lkg0LfQsNGC0L7QvSDQmtC40ZfQsiDQvNCw0YHRgtC10YDQt9C-0L5aNSIz0LrQvdGP0LbQuNC5INC30LDRgtC-0L0g0LrQuNGX0LIg0LzQsNGB0YLQtdGA0LfQvtC-kgEJcGV0X3N0b3Jl4AEA!16s%2Fg%2F11x5v8bm3m?entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
     },
-    
+      {
+        "city": "Київ",
+        "cod":"7615",
+        "zoomCity": 10,
+        "cityCoordinates": [50.4504212701224, 30.523708236377523],
+        "name": "ЖК Місто Квітів, вул. Тираспольська, буд. 58, прим. 875",
+        "tel": "099-871-61-57",
+        "time": "10:00-21:00",
+        "coordinates": [50.48097563187948, 30.41239337080624],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4809432,30.4123876,528m/data=!3m2!1e3!4b1!4m6!3m5!1s0x40d4cd658a4a0ebd:0xdfbc46df204059dd!8m2!3d50.4809432!4d30.4123876!16s%2Fg%2F11y0mnqj1h?entry=ttu&g_ep=EgoyMDI1MTAxMy4wIKXMDSoASAFQAw%3D%3D"
+    },
     {
         "city": "Львів",
         "cod":"5994",
