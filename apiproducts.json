@@ -660,6 +660,17 @@
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3957244,30.5995975,459m/data=!3m1!1e3!4m6!3m5!1s0x40d4c5f6cb3aacf9:0xe4a7240586594eb8!8m2!3d50.3956489!4d30.600568!16s%2Fg%2F11mkrr1gz7?entry=ttu&g_ep=EgoyMDI1MTAyOC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
+        "city": "Київ",
+        "cod":"7617",
+        "zoomCity": 10,
+        "cityCoordinates": [50.4504212701224, 30.523708236377523],
+        "name": "с. Лісники, вул. Родини Рубанів, буд. 174",
+        "tel": "099-021-36-38",
+        "time": "10:00-21:00",
+        "coordinates": [50.29607501964473, 30.532544160382617],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2960455,30.5325531,530m/data=!3m2!1e3!4b1!4m6!3m5!1s0x40d4b947fa68dc33:0x70d9aa44f9033476!8m2!3d50.2960455!4d30.5325531!16s%2Fg%2F11yn_06x6z?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
         "city": "Львів",
         "cod":"5994",
         "cityCoordinates": [49.841458, 24.027959],
