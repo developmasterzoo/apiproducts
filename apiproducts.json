@@ -670,6 +670,17 @@
         "coordinates": [50.29607501964473, 30.532544160382617],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2960455,30.5325531,530m/data=!3m2!1e3!4b1!4m6!3m5!1s0x40d4b947fa68dc33:0x70d9aa44f9033476!8m2!3d50.2960455!4d30.5325531!16s%2Fg%2F11yn_06x6z?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
     },
+     {
+        "city": "Київ",
+        "cod":"7617",
+        "zoomCity": 10,
+        "cityCoordinates": [50.4504212701224, 30.523708236377523],
+        "name": "бул. Лесі Українки, буд. 34",
+        "tel": "095-919-70-85",
+        "time": "10:00-21:00",
+        "coordinates": [50.42250443092829, 30.543879802217266],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4226466,30.5431831,17.25z/data=!4m6!3m5!1s0x40d4cfdd0d95094f:0xd01360c86b465619!8m2!3d50.4224958!4d30.5438768!16s%2Fg%2F11ms50sx85?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D"
+    },
     {
         "city": "Львів",
         "cod":"5994",
