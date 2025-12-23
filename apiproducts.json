@@ -2245,5 +2245,17 @@
         "time": "10:00-20:00",
         "coordinates": [48.29330476100035, 25.935952306147307],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.2933326,25.9359771,21z/data=!4m6!3m5!1s0x4734092f9e6be6ff:0x9ee71a58bb6bd5bf!8m2!3d48.2932945!4d25.935957!16s%2Fg%2F11y1pfxq21?hl=uk&entry=ttu"
+    },
+     {
+        "city": "Чернівці",
+        "cod":"7553",
+        "cityCoordinates": [48.29275221614309, 25.935967540384993],
+        "zoomCity": 12,
+        "name": "ТЦ Буковина Молл, вул. Галицький шлях, буд. 11",
+        "tel": "050-494-47-66",
+        "time": "10:00-22:00",
+        "coordinates": [48.32227997008076, 25.905418432562964],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.3222713,25.9054191,17z/data=!3m1!4b1!4m6!3m5!1s0x473407210f90eddf:0x6562e0812a7468d5!8m2!3d48.3222713!4d25.9054191!16s%2Fg%2F11ys29vp36?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
     }
+
 ]
