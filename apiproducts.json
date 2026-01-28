@@ -1526,6 +1526,17 @@
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.5936006,34.5530364,14z/data=!4m6!3m5!1s0x40d825c50f33e64b:0x64a6edcf0c2de5!8m2!3d49.5946159!4d34.5416209!16s%2Fg%2F11l2n4v3qv?hl=uk&entry=ttu"
     },
      {
+        "city": "Полтава",
+        "cod":"5740",
+        "cityCoordinates": [49.58957952155898, 34.55170482991717],
+        "zoomCity": 12,
+        "name": "ТЦ «Сільпо» (вул. Європейська, 185)",
+        "tel": "095-116-97-78",
+        "time": "9:00-20:00",
+        "coordinates": [49.560725804189666, 34.52640030000233],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.5605971,34.5264003,17z/data=!4m6!3m5!1s0x40d82f186a497fe7:0x38cfe49bdbc69da7!8m2!3d49.5605901!4d34.5264003!16s%2Fg%2F11cn16mt8v?hl=ru&entry=ttu"
+    },
+     {
         "city": "Суми",
         "cod":"5420",
         "cityCoordinates": [50.908038481116186, 34.79432157842044],
