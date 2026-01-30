@@ -2067,6 +2067,17 @@
         "coordinates": [50.75785778096484, 25.348756170434648],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.757928,25.3487173,21z/data=!4m6!3m5!1s0x4725978f60ebf767:0x53a25472e9004a5!8m2!3d50.757856!4d25.3487555!16s%2Fg%2F11l2npsly2?hl=uk&entry=ttu"
     },
+      {
+        "city": "Луцьк",
+        "cod":"7627",
+        "cityCoordinates": [50.7520619313937, 25.33061823812966],
+        "zoomCity": 12,
+        "name": "ТЦ Порт Сіті, пр. Соборності, буд. 43",
+        "tel": "050-327-67-93",
+        "time": "9:00-21:00",
+        "coordinates": [50.75560258143329, 25.35824663753234],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.7555967,25.3582538,17z/data=!3m1!4b1!4m6!3m5!1s0x472597d0cab0172b:0xa2b12cf6174169fc!8m2!3d50.7555967!4d25.3582538!16s%2Fg%2F11m_76_h9d?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D"
+    },
      {
         "city": "Мукачево",
         "cod":"7478",
