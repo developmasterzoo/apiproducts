@@ -681,6 +681,17 @@
         "coordinates": [50.4176287147218, 30.530701243994564],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4176992,30.5310665,16.75z/data=!4m6!3m5!1s0x40d4cfdecdfa5285:0xf537fd7dd8fb53a!8m2!3d50.4176222!4d30.5307011!16s%2Fg%2F11yzw0qcb9?entry=ttu&g_ep=EgoyMDI2MDIxNi4wIKXMDSoASAFQAw%3D%3D"
     },
+     {
+        "city": "Київ",
+        "cod":"7629",
+        "zoomCity": 10,
+        "cityCoordinates": [50.4504212701224, 30.523708236377523],
+        "name": "ТЦ Аладдін, вул. Гришка Михайла, буд. 5",
+        "tel": "075-928-64-31",
+        "time": "10:00-22:00",
+        "coordinates": [50.39601534464557, 30.6319251034786],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3960068,30.6319276,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4c5e2a961da1d:0x84cead197ed327f4!8m2!3d50.3960068!4d30.6319276!16s%2Fg%2F11z1vv94gq?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D"
+    },
     {
         "city": "Львів",
         "cod":"5994",
