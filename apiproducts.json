@@ -1924,6 +1924,17 @@
         "coordinates": [49.812491897299644, 30.087308877760147],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.8125605,30.0872713,21z/data=!4m6!3m5!1s0x40d3436785df907f:0x55a19125bae890de!8m2!3d49.8124829!4d30.0873079!16s%2Fg%2F11vdkky6km?hl=uk&entry=ttu"
     },
+      {
+        "city": "Біла Церква",
+        "cod":"7632",
+        "cityCoordinates": [49.79647987530058, 30.127947392656342],
+        "zoomCity": 12,
+        "name": "пр. Незалежності, буд. 57",
+        "tel": "050-346-17-68",
+        "time": "10:00-20:00",
+        "coordinates": [49.78552601814392, 30.15975688075711],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.7855184,30.1597511,17z/data=!3m1!4b1!4m6!3m5!1s0x40d369e46e24034f:0x15ef5f2aecb084b!8m2!3d49.7855184!4d30.1597511!16s%2Fg%2F11n9st6g3_?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D"
+    },
     {
         "city": "Хмельницький",
         "cod":"2423",
