@@ -865,7 +865,7 @@
     "cityCoordinates": [50.00809405621779, 36.32990630503759],
     "name": "ТЦ «Класс» (вул. 23-го Серпня, 33-А)",
     "tel": "066-970-85-35",
-    "time": "9:00-20:00",
+    "time": "9:00-21:00",
     "coordinates": [50.03567520580316, 36.21905785772093],
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.0355615,36.2190364,17z/data=!3m1!4b1!4m6!3m5!1s0x4127a6b498955555:0x230e8014d9003eca!8m2!3d50.0355615!4d36.2190364!16s%2Fg%2F11hd07nr8q?hl=ru&entry=ttu"
   },
@@ -920,7 +920,7 @@
     "cityCoordinates": [50.00809405621779, 36.32990630503759],
     "name": "вул. Дерев'янка, 17-В «ZooLand»",
     "tel": "066-897-99-58",
-    "time": "10:00-19:00",
+    "time": "10:00-20:00",
     "coordinates": [50.03484089849811, 36.24306066828486],
     "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.0342758,36.2431465,15z/data=!4m6!3m5!1s0x4127a6cfab108109:0x3a3f55aa51d362ef!8m2!3d50.0343034!4d36.2431465!16s%2Fg%2F1pp2tyx3d?hl=uk&entry=ttu"
   },
