@@ -692,6 +692,17 @@
         "coordinates": [50.39601534464557, 30.6319251034786],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3960068,30.6319276,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4c5e2a961da1d:0x84cead197ed327f4!8m2!3d50.3960068!4d30.6319276!16s%2Fg%2F11z1vv94gq?entry=ttu&g_ep=EgoyMDI2MDMwMi4wIKXMDSoASAFQAw%3D%3D"
     },
+     {
+        "city": "Київ",
+        "cod":"7630",
+        "zoomCity": 10,
+        "cityCoordinates": [50.4504212701224, 30.523708236377523],
+        "name": "ЖК Пори Року, вул. Мокра, буд. 20а",
+        "tel": "050-203-92-26",
+        "time": "10:00-21:00",
+        "coordinates": [50.42972621038065, 30.486921600580967],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.4296816,30.4869085,601m/data=!3m2!1e3!4b1!4m6!3m5!1s0x40d4cfeb58605f77:0xbddec6641f8de225!8m2!3d50.4296816!4d30.4869085!16s%2Fg%2F11z4ytvny8?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    },
     {
         "city": "Львів",
         "cod":"5994",
