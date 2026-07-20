@@ -1657,17 +1657,6 @@
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.2270714,28.4107244,15z/data=!4m6!3m5!1s0x472d5dd43dc84d2f:0x85e662dd7bcad930!8m2!3d49.2270714!4d28.4107244!16s%2Fg%2F11l2cx26wq?hl=uk&entry=ttu"
     },
     {
-        "city": "Вінниця",
-        "cod":"7552",
-        "cityCoordinates": [49.233166209084324, 28.467257437860162],
-        "zoomCity": 12,
-        "name": "вул. Зодчих, 5",
-        "tel": "095-672-35-85",
-        "time": "10:00-21:00",
-        "coordinates": [49.21959917203904, 28.4499482325224],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.218548,28.4498624,15z/data=!4m6!3m5!1s0x472d5b41d51738c3:0xe31c930dff87c5fe!8m2!3d49.219127!4d28.449803!16s%2Fg%2F11l36w1k39?hl=uk&entry=ttu"
-    },
-    {
         "city": "Самар",
         "cod":"7517",
         "addto":"Дніпро",
