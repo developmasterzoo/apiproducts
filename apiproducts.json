@@ -2200,6 +2200,17 @@
         "coordinates": [50.59789103589571, 26.264099770572106],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.5979474,26.2641165,21z/data=!4m6!3m5!1s0x472f13f101054fc9:0x9b96d851bb813fd!8m2!3d50.5978838!4d26.2640991!16s%2Fg%2F11vdkkx3c7?hl=uk&entry=ttu"
     },
+      {
+        "city": "Рівне",
+        "cod":"7639",
+        "cityCoordinates": [50.61901924111597, 26.251898541919175],
+        "zoomCity": 12,
+        "name": "ТЦ 4 Сезони, вул. Київська, буд. 10",
+        "tel": "095-369-54-06",
+        "time": "10:00-20:00",
+        "coordinates": [50.616082612834205, 26.27535843476254],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.6160751,26.2753616,17z/data=!3m1!4b1!4m6!3m5!1s0x472f13c8ee03b41b:0x454b0cb0e631c862!8m2!3d50.6160751!4d26.2753616!16s%2Fg%2F11zgm362n3?entry=ttu&g_ep=EgoyMDI2MDcyMC4wIKXMDSoASAFQAw%3D%3D"
+    },
     {
         "city": "Тернопіль",
         "cod":"7503",
