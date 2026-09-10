@@ -1613,6 +1613,17 @@
         "coordinates": [50.90879672057201, 34.84181795565963],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.9086648,34.8418716,17z/data=!3m1!4b1!4m6!3m5!1s0x4129031b7698c5d5:0xa18281e0bec5675b!8m2!3d50.9086648!4d34.8418716!16s%2Fg%2F11ld8q2sdd?entry=ttu"
     },
+       {
+        "city": "Суми",
+        "cod":"6017",
+        "cityCoordinates": [50.908038481116186, 34.79432157842044],
+        "zoomCity": 12,
+        "name": "ТРЦ «Лавина» (пр-т. Михайла Лушпи, 4, 1-й поверх)",
+        "tel": "050-989-21-34",
+        "time": "10:00-20:00",
+        "coordinates": [50.90484843176225, 34.819597586602924],
+        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.9047165,34.8195654,17z/data=!3m1!4b1!4m6!3m5!1s0x4129021c350889fd:0xba4bf8aaed6ab845!8m2!3d50.9047165!4d34.8195654!16s%2Fg%2F11g6bg01gx?hl=ru&entry=ttu"
+    },
     {
         "city": "Вінниця",
         "cod":"6463",
