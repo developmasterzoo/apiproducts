@@ -1579,17 +1579,6 @@
         "coordinates": [49.560725804189666, 34.52640030000233],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@49.5605971,34.5264003,17z/data=!4m6!3m5!1s0x40d82f186a497fe7:0x38cfe49bdbc69da7!8m2!3d49.5605901!4d34.5264003!16s%2Fg%2F11cn16mt8v?hl=ru&entry=ttu"
     },
-     {
-        "city": "Суми",
-        "cod":"5420",
-        "cityCoordinates": [50.908038481116186, 34.79432157842044],
-        "zoomCity": 12,
-        "name": "ТРЦ «Мануфактура» (вул. Харківська, 2/2, 1-й поверх)",
-        "tel": "099-706-87-61",
-        "time": "10:00-21:00",
-        "coordinates": [50.90458422988527, 34.805163644358295],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.904432,34.80511,17z/data=!3m1!4b1!4m6!3m5!1s0x412901f4c4ceefe3:0x121653986c5b40df!8m2!3d50.904432!4d34.80511!16s%2Fg%2F11cn18795l?hl=ru&entry=ttu"
-    },
 
     {
         "city": "Суми",
@@ -1893,17 +1882,6 @@
     },
     {
         "city": "Миколаїв",
-        "cod":"7591",
-        "cityCoordinates": [46.975033, 31.994583],
-        "zoomCity": 12,
-        "name": "ТЦ «Сіті Центр» (пр. Центральний, 98)",
-        "tel": "075-491-61-34",
-        "time": "10:00-20:00",
-        "coordinates": [46.96690338243695, 32.00194070003471],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@46.9668208,32.0019192,21z/data=!4m6!3m5!1s0x40c5c98505945d3f:0x135c052885d33a1e!8m2!3d46.9668924!4d32.0019407!16s%2Fg%2F11vwgjm4wz?entry=ttu"
-    },
-    {
-        "city": "Миколаїв",
         "cod":"7563",
         "cityCoordinates": [46.975033, 31.994583],
         "zoomCity": 12,
@@ -2056,17 +2034,7 @@
         "coordinates": [50.26069844416539, 28.700383011764426],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.2607552,28.7004769,21z/data=!4m6!3m5!1s0x472c63e8ecd3aa01:0x3ebc5e6563cd1b2a!8m2!3d50.2606933!4d28.700381!16s%2Fg%2F11vdkkly0g?hl=uk&entry=ttu"
     },
-    {
-        "city": "Запоріжжя",
-        "cod":"5212",
-        "cityCoordinates": [47.83947692696813, 35.14034189197584],
-        "zoomCity": 10,
-        "name": "ТРЦ «City Mall» (вул. Запорізька, 1-Б, 1-й поверх)",
-        "tel": "066-700-10-54",
-        "time": "10:00-21:00",
-        "coordinates": [47.81778995653305, 35.15778648499333],
-        "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@47.817805,35.1578348,21z/data=!4m6!3m5!1s0x40dc5e0355cb7d85:0x2f2af03893ef0f18!8m2!3d47.8177765!4d35.1577871!16s%2Fg%2F11cn18618t?hl=ru&entry=ttu"
-    },
+  
     {
         "city": "Запоріжжя",
         "cod":"6211",
