@@ -1470,6 +1470,18 @@
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3586861,30.9394727,14.25z/data=!4m6!3m5!1s0x40d4e90f17137d9b:0xfb9327ef4de0a866!8m2!3d50.3582474!4d30.9417256!16s%2Fg%2F11vb8bsd1b?hl=uk&entry=ttu"
     },
      {
+        "city": "Бориспіль",
+        "cod":"7646",
+         "addto" :"Київ",
+        "zoomCity": 14,
+        "cityCoordinates": [50.34807106682996, 30.956790973474178],
+        "name": "вул. Київський Шлях, буд. 76-Є",
+        "tel": "098-455-55-13",
+        "time": "10:00-21:00",
+        "coordinates": [50.34820192880256, 30.956139608556505],
+        "urlCoodinates": "https://www.google.com/maps/dir/?api=1&destination=50.348196,30.956142"
+    },
+     {
         "city": "Козин",
         "cod":"7596",
          "addto" :"Київ",
