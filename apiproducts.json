@@ -1388,15 +1388,15 @@
   },
   {
     "city": "Софіївська Борщагівка",
-    "cod":"7391",
+    "cod":"7644",
     "addto" :"Київ",
     "zoomCity": 12,
     "cityCoordinates": [50.4017944511263, 30.3239068727413],
-    "name": "ТРЦ «Європарк» (вул. Соборна, 140-A, 1-й поверх)",
-    "tel": "050-196-71-33",
+    "name": "ЖК Софія Резіденс, пр. Мартинова, буд. 2",
+    "tel": "063-065-53-83",
     "time": "10:00-21:00",
-    "coordinates": [50.4017944511263, 30.3239068727413],
-    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.409111,30.3501747,13.25z/data=!4m6!3m5!1s0x40d4cbb3cf6e0b6b:0xf71d6712a1c725b4!8m2!3d50.3998441!4d30.3242951!16s%2Fg%2F11h3g8212w?authuser=1&entry=ttu"
+    "coordinates": [50.39937028949802, 30.392682601565795],
+    "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@50.3992013,30.3928966,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4cbfa5834b9c9:0x5116972b1b32d621!8m2!3d50.3992013!4d30.3928966!16s%2Fg%2F11zy00skzk?entry=ttu&g_ep=EgoyMDI2MTAxOC4wIKXMDSoASAFQAw%3D%3D"
   },
           {
     "city": "Софіївська Борщагівка",
