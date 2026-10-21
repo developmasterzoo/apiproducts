@@ -2280,6 +2280,17 @@
         "time": "11:00-21:00",
         "coordinates": [48.32227997008076, 25.905418432562964],
         "urlCoodinates": "https://www.google.com/maps/place/%D0%97%D0%BE%D0%BE%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82+MasterZoo/@48.3222713,25.9054191,17z/data=!3m1!4b1!4m6!3m5!1s0x473407210f90eddf:0x6562e0812a7468d5!8m2!3d48.3222713!4d25.9054191!16s%2Fg%2F11ys29vp36?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+     {
+        "city": "Кам'янець-Подільський",
+        "cod":"7643",
+        "cityCoordinates": [48.697277045185466, 26.59134641717465],
+        "zoomCity": 12,
+        "name": "ТЦ Сакура Парк, вул. Євгена Коновальця, буд. 5а",
+        "tel": "095-672-35-85",
+        "time": "10:00-20:00",
+        "coordinates": [48.69997694877016, 26.567808198968716],
+        "urlCoodinates": "google.com/maps/search/Кам'янець-Подільський+мастерзооо/@48.6873482,26.5627391,13.75z?entry=ttu&g_ep=EgoyMDI2MTAxOC4wIKXMDSoASAFQAw%3D%3D"
     }
 
 ]
